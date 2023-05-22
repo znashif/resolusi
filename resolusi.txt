@@ -2,3 +2,6 @@ Zuhair Nashif RESOLUSI
 - Konsisten belajar programming
 - Membuat web sewa hotel
 - Segera magang
+
+- Rencana Proyek
+-- Web Villa
